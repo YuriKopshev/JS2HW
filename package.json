@@ -1,0 +1,21 @@
+{
+  "name": "jshw2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "eslint": "eslint"
+  },
+  "author": "yuri kopshev",
+  "license": "ISC",
+  "devDependencies": {
+    "beautify": "^0.0.8",
+    "eslint": "^8.23.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.1",
+    "eslint-plugin-unicorn": "^43.0.2",
+    "prettier": "2.7.1"
+  }
+}
